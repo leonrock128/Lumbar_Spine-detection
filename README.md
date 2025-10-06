@@ -2,7 +2,7 @@
 
 📂 Dataset Source: # Augmented_dataset > 2024-11-17 8:55am https://universe.roboflow.com/dl-ljbpi/augmented_dataset-cckeg
 
-** Provided by a Roboflow user License: CC BY 4.0 Augmented_dataset - v1 2024-11-17 8:55am **
+### Provided by a Roboflow user License: CC BY 4.0 Augmented_dataset - v1 2024-11-17 8:55am 
 This dataset was exported via roboflow.com on November 18, 2024 at 1:22 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
